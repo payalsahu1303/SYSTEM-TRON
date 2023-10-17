@@ -5,6 +5,7 @@ Welcome to the "Guess a Number" game written in C++!
 ## Description
 
 This simple console-based C++ program allows users to play the classic "Guess a Number" game. The program generates a random number within a specified range, and the player needs to guess the correct number.
+
 ![Screenshot (131)](https://github.com/payalsahu1303/SYSTEM-TRON/assets/141853271/d9d7a960-1228-4b12-a777-7b01b5889781)
 
 ## Features
