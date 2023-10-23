@@ -17,3 +17,4 @@ This repository reflects my journey and the DSA projects I've completed during m
 Inside this repository, you'll find a collection of DSA projects, algorithm implementations, and code samples that showcase my growth and skills as a DSA developer. Some of the key projects include:
 
 - Guess The Number
+- Rock Paper Scissors Game
