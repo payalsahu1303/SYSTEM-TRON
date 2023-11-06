@@ -19,3 +19,4 @@ Inside this repository, you'll find a collection of DSA projects, algorithm impl
 - Guess The Number
 - Rock Paper Scissors Game
 - Tic Tac Toe Game
+- Connect 4 Game
